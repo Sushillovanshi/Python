@@ -1,0 +1,6 @@
+for singal line  for multiple line use  '''(tripal line )
+if we use ''' as string then it alwasy with varibale name
+what is pep8 ; it is a documentation of how to write the varibale 
+varibale is the container we use for access the data 
+constant type not in python (if we make the varibale all capital lettar
+mulitple vlaue assing in multiple variable in single line this is only in python)
