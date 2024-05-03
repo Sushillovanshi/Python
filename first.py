@@ -24,3 +24,17 @@ print(z)
 
 #mote on sinlge line comment (#)        miltiy line comment ('''    ''')
 
+import keyword
+print("The list of keywords is")
+print(keyword.kwlist)
+
+
+
+
+
+
+
+
+
+
+

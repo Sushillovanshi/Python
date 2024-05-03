@@ -4,3 +4,26 @@ what is pep8 ; it is a documentation of how to write the varibale
 varibale is the container we use for access the data 
 constant type not in python (if we make the varibale all capital lettar
 mulitple vlaue assing in multiple variable in single line this is only in python)
+
+#  those  follow the indrxing which is sequential data type
+# 3.sequential
+
+list 
+tuple
+#  map
+dict
+
+#  set
+set 
+forzenset
+
+# binary
+bytes
+bytearray
+
+
+true
+flase
+None
+**class_name
+**const variable
