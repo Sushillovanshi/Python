@@ -1,4 +1,4 @@
-print("hello world!")
+'''print("hello world!")
 # sect over flow 
 a = 10
 b = 20
@@ -26,7 +26,27 @@ print(z)
 
 import keyword
 print("The list of keywords is")
-print(keyword.kwlist)
+print(keyword.kwlist) '''
+
+# 4/5/2024
+
+# indexing
+# string
+
+str="python"
+str.index('h')
+print (str.index('h'))
+
+
+#  o\p
+# list
+
+my_list=[10,20,30,40,50,60,'sushil']
+print(my_list.index(40))
+print(my_list.index("sushil"))
+
+# slicilng
+
 
 
 

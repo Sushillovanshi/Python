@@ -27,3 +27,6 @@ flase
 None
 **class_name
 **const variable
+
+4/5/24
+indexing And slicing 
