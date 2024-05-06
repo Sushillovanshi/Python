@@ -1,1 +1,2 @@
-print(my_list.index('sushil'))
+x="sushil"
+# print(int(x))

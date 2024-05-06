@@ -30,3 +30,13 @@ None
 
 4/5/24
 indexing And slicing 
+6/5/2024 
+in build function
+print
+type()
+id()
+input()
+min()
+max()
+len()
+
