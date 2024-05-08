@@ -29,6 +29,7 @@ None
 **const variable
 
 4/5/24
+
 indexing And slicing 
 6/5/2024 
 in build function
@@ -39,8 +40,16 @@ input()
 min()
 max()
 len()
+
 7/5/2024
+
 # string is collection of charactor are called string ..
 # Dublicate charactor \ object are allowed  (ex: >> str:'sushil')
 # Sequential datA.type "sushil" (i.e order is fixed)
 # indexing and slicing also allowed
+
+8/5/24 
+
+
+
+
