@@ -48,7 +48,12 @@ len()
 # Sequential datA.type "sushil" (i.e order is fixed)
 # indexing and slicing also allowed
 
-8/5/24 
+
+11/5/2024
+
+python txt learn
+
+
 
 
 
